@@ -3,7 +3,7 @@
 🎓 Estudante de [Engenharia da Computação] na [Universidade Santa Cecília]  
 💻 Desenvolvedor apaixonado por tecnologia, backend, frontEnd e automações  
 🌱 Atualmente aprendendo: `Azure Devops`, `.Net Clean Arch`, `KuberNets`, `Raspberry Pi`  
-📫 Contato: kaue.email@exemplo.com  
+📫 Contato: kauesabino@hotmail.com  
 
 ---
 
