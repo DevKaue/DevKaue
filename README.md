@@ -2,7 +2,7 @@
 
 🎓 Estudante de [Seu Curso] na [Sua Universidade]  
 💻 Desenvolvedor apaixonado por tecnologia, backend e automações  
-🌱 Atualmente aprendendo: `.NET`, `Python`, `Angular`, `Raspberry Pi`  
+🌱 Atualmente aprendendo: `Azure Devops`, `.Net Clean Arch`, `KuberNets`, `Raspberry Pi`  
 📫 Contato: kaue.email@exemplo.com  
 
 ---
@@ -14,12 +14,20 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Kaue's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauewendt&show_icons=true&theme=dracula)
+![Kaue's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevKaue&show_icons=true&theme=dracula)
 
 ---
 
