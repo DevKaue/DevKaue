@@ -1,7 +1,7 @@
 # Olá! Eu sou o Kauê Wendt Sabino 👋
 
-🎓 Estudante de [Seu Curso] na [Sua Universidade]  
-💻 Desenvolvedor apaixonado por tecnologia, backend e automações  
+🎓 Estudante de [Engenharia da Computação] na [Universidade Santa Cecília]  
+💻 Desenvolvedor apaixonado por tecnologia, backend, frontEnd e automações  
 🌱 Atualmente aprendendo: `Azure Devops`, `.Net Clean Arch`, `KuberNets`, `Raspberry Pi`  
 📫 Contato: kaue.email@exemplo.com  
 
