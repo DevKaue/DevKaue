@@ -33,9 +33,10 @@
 
 ## 📝 Projetos em Destaque
 
-- 🔒 [API com autenticação JWT em Python](https://github.com/DevKaue/API_Login_Python)  
+- 🔒 [API com autenticação JWT em Python](https://github.com/DevKaue/API_Login_Python) 
 - 💻 [API com MongoDb + Express + Node](https://github.com/DevKaue/Curso_Udemy_Node)  
-- 💻 [Projeto com InFluxDB, monitoramento de sensores](https://github.com/DevKaue/APIMVC-INFLUXDB) 
+- 💻 [Projeto com InFluxDB, monitoramento de sensores](https://github.com/DevKaue/APIMVC-INFLUXDB)
+- 📱  [Projeto com ReactNative, App de acompanhamento financeiro](https://github.com/DevKaue/React-Native-para-devs-React)
 ---
 
 Obrigado por visitar meu perfil! ✨  
