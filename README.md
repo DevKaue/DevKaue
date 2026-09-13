@@ -1,14 +1,14 @@
 # Olá! Eu sou o Kauê Wendt Sabino 👋
 
-**Engenheiro da Computação · Desenvolvedor Full Stack**
+**Engenheiro da Computação · Desenvolvedor Pleno na SpaceIT**
 
-Desenvolvo aplicações, APIs e automações, conectando regras de negócio, interfaces e infraestrutura. Trabalho com .NET, Node.js, React e Angular, com atenção à arquitetura e à evolução dos sistemas.
+Desde fevereiro de 2026, trabalho na SpaceIT com C# e React na construção de novas soluções. Cuido da arquitetura dos novos projetos e atuo como ponto focal na gestão e liderança deles, conectando regras de negócio, interfaces e infraestrutura.
 
 - 🎓 Formado em **Engenharia da Computação pela Universidade Santa Cecília**.
 - 📚 Cursando **pós-graduação em Arquitetura de Software na FIAP — Pós Tech**.
 - 🛠️ No dia a dia: **Azure DevOps, Docker, Kubernetes, CI/CD e Clean Architecture**.
 - 🌱 Aprofundando estudos em **arquiteturas de software e Raspberry Pi / IoT**.
-- 📫 **[E-mail](mailto:kauesabino@hotmail.com)** · **[LinkedIn](https://www.linkedin.com/in/kauewendtsabino/)** · **[Portfólio](https://curriculo-lake-theta.vercel.app/)**
+- 📫 **[E-mail](mailto:kauesabino@hotmail.com)** · **[LinkedIn](https://www.linkedin.com/in/kauewendtsabino/)** · **[Portfólio](https://kaue-wendt-sabino.vercel.app/)**
 
 ---
 
@@ -88,4 +88,4 @@ Dashboard de finanças pessoais para acompanhar receitas, despesas, cartões, in
 
 **Stack:** React · TypeScript · Node.js · Recharts · Cloudflare Workers / D1
 
-**[Conheça os detalhes no meu portfólio →](https://curriculo-lake-theta.vercel.app/#projetos)**
+**[Conheça os detalhes no meu portfólio →](https://kaue-wendt-sabino.vercel.app/#projetos)**
