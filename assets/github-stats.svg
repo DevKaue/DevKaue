@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="306" viewBox="0 0 760 306" role="img" aria-labelledby="title desc">
   <title id="title">GitHub Stats — Kauê Wendt Sabino</title>
-  <desc id="desc">Repositórios públicos: 34. Estrelas recebidas: 0. Forks dos meus projetos: 0. Pull requests públicos: 78. Issues públicas: 1. Seguidores: 1. Atualizado em 15/09/2026. Somente dados públicos.</desc>
+  <desc id="desc">Repositórios públicos: 34. Estrelas recebidas: 0. Forks dos meus projetos: 0. Pull requests públicos: 78. Issues públicas: 1. Seguidores: 1. Atualizado em 16/09/2026. Somente dados públicos.</desc>
   <style>text{font-family:Arial,Helvetica,sans-serif}.value{fill:#f4f0e7;font-size:31px;font-weight:700}.label{fill:#c6c9be;font-size:13px}</style>
   <rect width="760" height="306" rx="8" fill="#202a26"/>
   <path d="M30 65H730 M30 252H730" stroke="#48524b"/>
@@ -13,6 +13,6 @@
 <g transform="translate(30 205)"><text class="value">78</text><text class="label" y="28">Pull requests públicos</text></g>
 <g transform="translate(275 205)"><text class="value">1</text><text class="label" y="28">Issues públicas</text></g>
 <g transform="translate(520 205)"><text class="value">1</text><text class="label" y="28">Seguidores</text></g>
-  <text x="30" y="283" fill="#c6c9be" font-size="12">Atualizado em 15/09/2026 · GitHub Actions</text>
+  <text x="30" y="283" fill="#c6c9be" font-size="12">Atualizado em 16/09/2026 · GitHub Actions</text>
   <text x="730" y="283" fill="#da8055" font-size="12" text-anchor="end">github.com/DevKaue</text>
 </svg>
